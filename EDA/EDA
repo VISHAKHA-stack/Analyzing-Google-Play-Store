@@ -1,1 +1,20 @@
 
+-- Free Apps are downloaded more compared to paid Apps.
+
+-- There is around 2000 apps with family category, followed by game category with 1200 apps and tools category with around 1000 apps.
+
+-- Most of the rating is around 4.
+
+-- 'Events' category has the highest rating followed by 'Education' category and 'Art_and_design' category. Also the 'Dating' category has the least rating.
+
+-- The average of rating by category, family and game has a lot of quantity causing the low on average rating, on the other side event has the highest average rating by category.
+
+-- 'Game', 'Communication', 'Social' have the most reviews.
+
+-- 'Communication', 'Social', 'Video_players' are the most installed categories.
+
+-- The Everyone category has the highest number of apps.
+
+-- 2018 has the most updates till now followed by 2017 and 2016.
+
+-- There have been most 'positive' sentiments in reviews followed by 'negative' and 'neutral'.
