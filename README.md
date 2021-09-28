@@ -25,7 +25,7 @@
 
 ## Tableau link
 
-https://prod-apnortheast-a.online.tableau.com/t/vishakhastableausite/views/GooglePlayStoreDataAnalysis/Dashboard1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/vishakha.chavan/viz/GooglePlaystoreDataAnalysis_16328199989840/Dashboard1?publish=yes
 
 ## Contributors
 
